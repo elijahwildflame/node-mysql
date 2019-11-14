@@ -1,0 +1,27 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sever.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elijahwildflame/node-mysql.git"
+  },
+  "author": "alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elijahwildflame/node-mysql/issues"
+  },
+  "homepage": "https://github.com/elijahwildflame/node-mysql#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4",
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
